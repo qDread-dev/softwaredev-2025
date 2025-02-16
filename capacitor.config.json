@@ -1,0 +1,10 @@
+{
+  "appId": "dev.envirohabit.app",
+  "appName": "envirohabit",
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchAutoHide": false
+    }
+  }
+}
